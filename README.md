@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Iyana
+I'm a fullstack developer with a background in biology. I transitioned to web development in 2021 and have been learning new technologies ever since. 
+
+
+### Technologies Learned
+- HTML
+- CSS
+- Javascript
+- JQuery
+- React
+- Node.js
+
+<!-- img goes here -->
+
+
