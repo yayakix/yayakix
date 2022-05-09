@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Iyana
-I'm a fullstack developer with a background in biology. I transitioned to web development in 2021 and have been learning new technologies ever since. 
+I'm a fullstack React developer. I have a strong interest towards front-end and improving the user experience.
 
 
 ### Technologies Learned
