@@ -25,6 +25,7 @@ I'm a fullstack React developer. I have a strong interest towards front-end and 
 - JQuery
 - React
 - Node.js
+- Express.js
 
 <!-- img goes here -->
 
