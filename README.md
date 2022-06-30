@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Iyana
-I'm a fullstack React developer. I have a strong interest towards front-end and improving the user experience.
 
-
-### Technologies Learned
+### Technologies I work with
 - HTML
 - CSS
 - Javascript
