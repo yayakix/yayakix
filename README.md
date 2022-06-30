@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Iyana
 
-### Technologies I work with
+### Technologies I enjoy working with 🤔
 - HTML
 - CSS
-- Javascript
+- Javascript 🌱
 - JQuery
 - React
 - Node.js
