@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix)](https://github.com/yayakix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact&theme=tokyonight_duo&theme=vision-friendly-dark)](https://github.com/yayakix/github-readme-stats)
 
 
 <!-- img goes here -->
