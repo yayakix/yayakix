@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 # Hi, I'm Iyana
 
 ### My Main Languages 🌱
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact&theme=tokyonight_duo&theme=vision-friendly-dark)](https://github.com/yayakix/github-readme-stats)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
  
  ### Other tools I have worked with ⚡
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact&theme=tokyonight_duo&theme=vision-friendly-dark)](https://github.com/yayakix/github-readme-stats)
+
 
 
 <!-- img goes here -->
