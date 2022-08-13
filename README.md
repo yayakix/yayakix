@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # Hi, I'm Iyana
 
 ### My Main Languages 🌱
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact&theme=tokyonight_duo&theme=vision-friendly-dark)](https://github.com/yayakix/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact)](https://github.com/yayakix/github-readme-stats)
 
