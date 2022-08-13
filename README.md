@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### My Main Languages 🌱
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact&theme=tokyonight_duo&theme=vision-friendly-dark)](https://github.com/yayakix/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayakix&layout=compact)](https://github.com/yayakix/github-readme-stats)
+
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
